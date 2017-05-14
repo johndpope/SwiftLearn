@@ -14,21 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_58"
-               BuildableName = "GeneralMath.framework"
-               BlueprintName = "GeneralMath"
-               ReferencedContainer = "container:SwiftLearn.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_65"
+               BlueprintIdentifier = "OBJ_59"
                BuildableName = "Linear.framework"
                BlueprintName = "Linear"
                ReferencedContainer = "container:SwiftLearn.xcodeproj">
@@ -42,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_90"
+               BlueprintIdentifier = "OBJ_83"
                BuildableName = "Optimization.framework"
                BlueprintName = "Optimization"
                ReferencedContainer = "container:SwiftLearn.xcodeproj">
@@ -56,9 +42,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_101"
+               BlueprintIdentifier = "OBJ_94"
                BuildableName = "Plotting.framework"
                BlueprintName = "Plotting"
+               ReferencedContainer = "container:SwiftLearn.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_102"
+               BuildableName = "GeneralMath.framework"
+               BlueprintName = "GeneralMath"
                ReferencedContainer = "container:SwiftLearn.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -93,7 +93,7 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Release"
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
@@ -125,9 +125,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_58"
-            BuildableName = "GeneralMath.framework"
-            BlueprintName = "GeneralMath"
+            BlueprintIdentifier = "OBJ_59"
+            BuildableName = "Linear.framework"
+            BlueprintName = "Linear"
             ReferencedContainer = "container:SwiftLearn.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
